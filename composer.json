@@ -41,12 +41,6 @@
             "dev-master": "1.0.x-dev"
         }
     },
-    "repositories": {
-        "micro-service-reactor": {
-            "type": "vcs",
-            "url": "git@bitbucket.org:GepurGepur/micro-service-reactor.git"
-        }
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
