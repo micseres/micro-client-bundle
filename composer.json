@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Micseres\\MicroClientBundle\\": ""
+            "Micseres\\MicroClientBundle\\": "src"
         }
     },
     "autoload-dev": {
